@@ -16,7 +16,7 @@ print(result);
 },
 ),
 ```
-* screen
+
 ![alt text](https://github.com/lekgaetonic/secure_pin_code/blob/master/Screenshot_20230510_151326.png?raw=true)
-* sammple
+
 ![alt text](https://github.com/lekgaetonic/secure_pin_code/blob/master/Screenshot_20230510_151326.gif?raw=true)
