@@ -19,4 +19,4 @@ print(result);
 
 ![alt text](https://github.com/lekgaetonic/secure_pin_code/blob/master/Screenshot_20230510_151326.png?raw=true)
 
-![alt text](https://github.com/lekgaetonic/secure_pin_code/blob/master/Screenshot_20230510_151326.gif?raw=true)
+![alt text](https://github.com/lekgaetonic/secure_pin_code/blob/master/device-2566-05-10-151410.gif?raw=true)
