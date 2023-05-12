@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 typedef OnCallback = void Function(bool result);
 
 class SecurePinCode extends StatefulWidget {
-  SecurePinCode({
+  const SecurePinCode({
     super.key,
     required this.logo,
     required this.title,
@@ -26,9 +26,9 @@ class SecurePinCode extends StatefulWidget {
   final String errorMessage;
   final List<int> pin;
   final OnCallback onCallback;
-  double? messageSize;
-  double? bulletSize;
-  double? numberSize;
+  final double? messageSize;
+  final double? bulletSize;
+  final double? numberSize;
 
   @override
   State<SecurePinCode> createState() => _SecurePinCodeState();
